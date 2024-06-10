@@ -13,7 +13,7 @@
  
 </head>
 
-<a href="index.html">
+<a href="https://github.com/christabelosas/christabelosas">
     Click to Homepage
 </a>
     <section id="contact">
